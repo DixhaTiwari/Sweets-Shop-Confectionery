@@ -1,0 +1,112 @@
+.page
+ {
+   width: 100%;
+   height: auto;
+   border-style: groove;
+}
+.headerpart
+{
+width: 99%;
+height: 200px;
+border-style:groove; 
+background-color:rgb(244,164,96);
+background-image:url("Picture/637032163998802590KMDSQ4.jpg");
+
+background-repeat:no-repeat;
+}
+
+.linkspart
+{
+width:99%;
+height:20px;
+margin-top:15px;
+ border-style: groove;
+background-image:url("Picture/images (1).jpeg");
+}
+
+.linkspart a
+{
+color:rgb(199,21,133);
+text-decorat:none;
+}
+
+.linkspart a:hover
+{
+background-color:rgb(188,143,143);
+color:rgb(147,112,219);
+}
+
+.bodypart
+{
+width:100%;
+height:600px;
+border-style: groove;
+margin-top:5px;
+background-image:url("Picture/112246-pastel-orange-blurred-background-vector.jpg");
+
+
+}
+
+.bodypart .imagepart
+{
+    background-image:url("Picture/images (3).jpeg");
+    background-position: center;
+    /* background-size: cover; */
+width:100%;
+height:170px;
+border-style:groove;
+background-repeat:no-repeat;
+display:inline-block;
+}
+
+.bodypart .newspart h2
+{
+  color: orange;
+margin-left:10px;
+background-image:url("Picture/Kesar Laddo.jpg");
+
+}
+
+.bodypart .newspart
+{
+    background-image:url("Picture/images (2).jpeg");
+    background-position: center;
+    background-size: cover;
+  width:450px;
+  height:350px;
+border-style:groove;
+float: right;
+
+}
+
+
+.bodypart .newspart .news
+{
+width:100%;
+height: 500px;
+border-style:groove;
+}
+
+.bodypart .newspart .news h4
+{
+    
+color:orange;
+background-color:rgb(80, 44, 67);
+}
+
+.bodypart h3
+{
+color: rgb(231, 238, 231);
+background-image:url("Picture/images (1).png");
+
+}
+
+.footerpart
+{
+width:100%;
+height:20px;
+margin-top:15px;
+ border-style: groove;
+background-color:rgb(255,160,122);
+
+}
